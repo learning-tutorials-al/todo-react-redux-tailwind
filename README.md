@@ -10,6 +10,9 @@ The app allows users to create, edit, complete and filter tasks with persistent 
 
 ---
 
+## 🔗 Live Demo
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen?style=for-the-badge)](https://todo-react-redux-tailwind.vercel.app/)
+
 ## Features
 
 - ➕ Add new todos
@@ -76,7 +79,7 @@ frontend
 Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/todo-react.git
+git clone https://github.com/learning-tutorials-al/todo-react-redux-tailwind.git
 ```
 
 Go to project folder
@@ -107,11 +110,7 @@ Todos are stored in **localStorage**, so tasks remain available after refreshing
 
 ## Preview
 
-Add a screenshot of the application:
-
-```
 ![Todo App Screenshot](./src/assets/Screenshot.png)
-```
 ---
 
 ## Future Improvements

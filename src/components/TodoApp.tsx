@@ -162,7 +162,7 @@ export default function TodoApp() {
 										<p className="text-lg font-medium mb-2 text-gray-800">
 											No Todos Yet
 										</p>
-										<p>Add your first todo get stated!</p>
+										<p>Add your first todo get started!</p>
 									</div>
 								) : (
 									<div className="text-gray-600">
