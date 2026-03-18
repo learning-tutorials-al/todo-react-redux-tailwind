@@ -11,7 +11,7 @@ The app allows users to create, edit, complete and filter tasks with persistent 
 ---
 
 ## 🔗 Live Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen?style=for-the-badge)](https://todo-react-redux-tailwind.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-brightgreen?style=for-the-badge)](https://todo-react-redux-tailwind-v1.vercel.app/)
 
 ## Features
 
