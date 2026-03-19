@@ -59,7 +59,6 @@ export default function TodoApp() {
 								Progress Overview
 							</h2>
 							<div className="text-2xl font-bold text-green-600">
-								{/*Stats Completed Logics*/}
 								{stats.completionPercentage}%
 							</div>
 						</div>
@@ -75,7 +74,6 @@ export default function TodoApp() {
 						<div className="grid grid-cols-3 gap-4 text-center">
 							<div>
 								<div className="text-2xl font-bold text-gray-800">
-									{/*Stats Total Logic*/}
 									{stats.total}
 								</div>
 								<div className="text-sm text-gray-600">Total</div>
@@ -109,7 +107,7 @@ export default function TodoApp() {
 							>
 								<Plus size={28} /> Add Todo
 							</button>
-							{/*Clear and Delete Buutons*/}
+							{/*Clear and Delete Buttons*/}
 							{stats.total > 0 && (
 								<div className="flex items-center gap-2">
 									{stats.completed > 0 && (
@@ -139,7 +137,6 @@ export default function TodoApp() {
 								</div>
 							)}
 						</div>
-						{/* Todo Filter I will add Logics */}
 						<TodoFilters
 							currentFilter={filter}
 							stats={stats}
